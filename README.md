@@ -2,7 +2,7 @@
 
 This project is a Python implementation of the Enigma Machine, developed as a final project for the discipline **Programming for Artificial Intelligence**, within the **MSc in Artificial Intelligence** at the **University of Bath**. 
 
-It simulates the M3 and M4 models, bridging historical cryptography with modern programming.
+It faithfully implements the M3 and M4 variants, including the 8-rotor naval set and the M4's thin rotor architecture.
 ## Overview
 
 The primary goal was to create a simulator that reflects the original hardware. This project replicates the exact electrical signal path:
